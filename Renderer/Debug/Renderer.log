@@ -1,0 +1,8 @@
+﻿  RenderMenu.cpp
+p:\comp 345\renderer\renderer\rendermenu.cpp(17): warning C4018: '<': signed/unsigned mismatch
+p:\comp 345\renderer\renderer\rendermenu.cpp(34): warning C4018: '>': signed/unsigned mismatch
+  RenderItem.cpp
+  Game.cpp
+  Generating Code...
+  Renderer.vcxproj -> P:\comp 345\Renderer\Debug\Renderer.exe
+  Renderer.vcxproj -> P:\comp 345\Renderer\Debug\Renderer.pdb (Partial PDB)
